@@ -1,6 +1,6 @@
-# Hi there, I'm Haitham
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7621A&width=435&lines=Hi+there%2C+I'm+Haitham!%F0%9F%96%90)](https://git.io/typing-svg)
 
-## Software engineer in staging.
+### Software engineer in staging.
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: getting better at competitive coding
