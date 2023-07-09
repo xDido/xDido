@@ -35,15 +35,5 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xDido&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nw8hs0hrab70adxx9las2nlvc)
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xdido&show_icons=true&locale=en" alt="xdido" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xdido&" alt="xdido" /></p>
+  
+![Snake animation](https://github.com/xDido/Ahmed-Haitham/blob/output/github-contribution-grid-snake.svg)
