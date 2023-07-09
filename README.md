@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7621A&width=435&lines=Hi+there%2C+I'm+Haitham!%F0%9F%96%90)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9A237B&width=435&lines=Hi+there%2C+I'm+Haitham%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ### Software engineer in staging.
 
@@ -33,7 +33,5 @@
 ### :zap: GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xDido&count_private=true&show_icons=true&theme=radical)](https://github.com/xDido/)
-  
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nw8hs0hrab70adxx9las2nlvc)
   
 ![Snake animation](https://github.com/xDido/Ahmed-Haitham/blob/output/github-contribution-grid-snake.svg)
