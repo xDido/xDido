@@ -32,7 +32,7 @@
 
 ### :zap: GitHub Stats
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xDido&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xDido&count_private=true&show_icons=true&theme=radical)](https://github.com/xDido/)
   
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nw8hs0hrab70adxx9las2nlvc)
   
