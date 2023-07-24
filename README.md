@@ -33,5 +33,3 @@
 ### :zap: GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xDido&count_private=true&show_icons=true&theme=radical)](https://github.com/xDido/)
-  
-![Snake animation](https://github.com/xDido/Ahmed-Haitham/blob/output/github-contribution-grid-snake.svg)
