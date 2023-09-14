@@ -32,6 +32,7 @@
 <img align="left" alt="mongodb" width="40px" src="https://github.com/xDido/xDido/assets/73004262/06d9f192-57f8-4cac-9222-6a0fb4b5d56d" style="padding-right:10px;"/>
 <img align="left" alt="mysql" width="40px" src="https://github.com/xDido/xDido/assets/73004262/d09ceb04-3316-43bb-a752-65c7a4fe4df7" style="padding-right:10px;"/>
 <img align="left" alt="mariadb" width="40px" src="https://github.com/xDido/xDido/assets/73004262/b38b4c93-e997-4006-a895-1143248cd3ca" style="padding-right:10px;"/><br>
+<img align="left" alt="Django" width="40px" src="https://github.com/xDido/xDido/assets/73004262/c8d83634-f756-4bd0-b916-f27be740a161" style="padding-right:10px;"/>
 <br>
 <br>
 
