@@ -3,7 +3,7 @@
 ### Software engineer in staging.
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: getting better at competitive coding
+- 🥅 2025 Goals: getting better at competitive coding
 - ⚡ Fun fact: I love using Chatgpt to do my tasks.
 
 ### Connect with me:
