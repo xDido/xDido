@@ -2,9 +2,6 @@
 
 ### Software engineer in staging.
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2025 Goals: getting better at competitive coding
-- ⚡ Fun fact: I love using Chatgpt to do my tasks.
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/adhaitham/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="myLinkedin" height="30" width="40" /></a>
@@ -42,8 +39,3 @@
 
 <br>
 <br>
-
-
-
-### :zap: GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xDido&count_private=true&show_icons=true&theme=radical)](https://github.com/xDido/)
