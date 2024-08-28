@@ -31,7 +31,6 @@
 <img align="left" alt="html" width="40px" src="https://github.com/xDido/xDido/assets/73004262/cbdb46a4-7f70-48c6-9c02-a58f07e9eb9e" style="padding-right:10px;"/>
 <img align="left" alt="json" width="40px" src="https://github.com/xDido/xDido/assets/73004262/3cc79ae8-bdd2-4043-8171-49dcb98f3c6d" style="padding-right:10px;"/>
 <img align="left" alt="json" width="40px" src="https://github.com/xDido/xDido/assets/73004262/20445972-da97-4d43-be09-734299d744f1" style="padding-right:10px;"/>
-<img align="left" alt="json" width="40px" src="https://github.com/xDido/xDido/assets/73004262/c75ef8fe-bab2-42f9-b8d5-a56adca00956" style="padding-right:10px;"/>
 
 <br>
 <br>
