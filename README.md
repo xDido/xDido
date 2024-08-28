@@ -27,9 +27,6 @@
 <img align="left" alt="mariadb" width="40px" src="https://github.com/xDido/xDido/assets/73004262/b38b4c93-e997-4006-a895-1143248cd3ca" style="padding-right:10px;"/><br>
 <img align="left" alt="Django" width="40px" src="https://github.com/xDido/xDido/assets/73004262/c8d83634-f756-4bd0-b916-f27be740a161" style="padding-right:10px;"/>
 <img align="left" alt="git" width="40px" src="https://github.com/xDido/xDido/assets/73004262/6c9d6ae9-7d97-4745-92ad-4017b2ed4b14" style="padding-right:10px;"/>
-<img align="left" alt="bash" width="40px" src="https://github.com/xDido/xDido/assets/73004262/eb52a132-4ee2-4cd7-bd57-bfead23448b9" style="padding-right:10px;"/>
-<img align="left" alt="html" width="40px" src="https://github.com/xDido/xDido/assets/73004262/cbdb46a4-7f70-48c6-9c02-a58f07e9eb9e" style="padding-right:10px;"/>
-<img align="left" alt="json" width="40px" src="https://github.com/xDido/xDido/assets/73004262/3cc79ae8-bdd2-4043-8171-49dcb98f3c6d" style="padding-right:10px;"/>
 <img align="left" alt="json" width="40px" src="https://github.com/xDido/xDido/assets/73004262/20445972-da97-4d43-be09-734299d744f1" style="padding-right:10px;"/>
 
 <br>
