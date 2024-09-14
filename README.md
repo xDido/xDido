@@ -5,7 +5,6 @@
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/adhaitham/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="myLinkedin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20870221/ahmed-haitham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4613968" height="30" width="40" /></a>
 
 
 
