@@ -67,7 +67,7 @@ superpower: "bro can you help me real quick?" — always delivers
 const dido = {
     learning: ["System Design", "Distributed Systems", "Cloud Architecture"],
     building: "Something cool 👀",
-    goal2024: "Ship more, learn more, help more",
+    goal2026: "Ship more, learn more, help more",
     askMeAbout: ["Go", "Java", "Backend", "APIs", "Docker", "Life advice"]
 };
 ```
