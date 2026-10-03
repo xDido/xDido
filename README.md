@@ -16,7 +16,6 @@ name: Dido
 located_in: The Terminal
 role: Backend Engineer
 currently: Building. Breaking. Fixing. Repeat.
-superpower: "bro can you help me real quick?" — always delivers
 ```
 
 🔧 **Building things** that actually work  
