@@ -80,7 +80,6 @@ const dido = {
 
 [![Email](https://img.shields.io/badge/Email-adhaithaam@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhaithaam@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adhaitham-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhaitham/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-00d9ff?style=for-the-badge&logo=firefox&logoColor=white)](https://xhaitham.netlify.app/)
 
 </div>
 
