@@ -20,8 +20,7 @@ currently: Building. Breaking. Fixing. Repeat.
 
 🔧 **Building things** that actually work  
 🚀 **Moving fast** and learning even faster  
-🤝 **If you need help?** I got you — anytime  
-☕ **Fueled by** coffee and curiosity
+☕ **Fueled by** coffee
 
 <br clear="right"/>
 
@@ -39,7 +38,6 @@ currently: Building. Breaking. Fixing. Repeat.
 
 ### ⚙️ Frameworks & Tools
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -47,14 +45,6 @@ currently: Building. Breaking. Fixing. Repeat.
 
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-
-### 🔨 Daily Drivers
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![GoLand](https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=goland&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -66,8 +56,7 @@ currently: Building. Breaking. Fixing. Repeat.
 const dido = {
     learning: ["System Design", "Distributed Systems", "Cloud Architecture"],
     building: "Something cool 👀",
-    goal2026: "Ship more, learn more, help more",
-    askMeAbout: ["Go", "Java", "Backend", "APIs", "Docker", "Life advice"]
+    askMeAbout: ["Go", "Java", "Backend", "AI", "Life advice"]
 };
 ```
 
